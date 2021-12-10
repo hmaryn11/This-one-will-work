@@ -1,0 +1,54 @@
+a:visited{
+    color:rgb(134, 76, 28);
+    font-size: larger;
+}
+
+.body2 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/IMG_5529.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.body3 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/IMG_5664.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.body4 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/IMG_1586.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.body5 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/IMG_5670.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.body6 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/IMG_5586.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bigletters{
+    font-weight: 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:goldenrod;
+}
+
+.paradiff{
+    color:saddlebrown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.smblk{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
